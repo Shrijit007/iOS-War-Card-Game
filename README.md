@@ -7,9 +7,9 @@ Welcome to the **War Card Game**, an iOS application developed using **Swift** a
 ## Screenshots
 
 ### Game Screen  
-<img src="https://github.com/user-attachments/assets/16a0144f-de00-4893-8015-c7c55999e383" alt="Game Screenshot 3" width="300">
-<img src="https://github.com/user-attachments/assets/7c7edbea-ed79-4d3d-b546-427808bd2e37" alt="Game Screenshot 1" width="300"> 
-<img src="https://github.com/user-attachments/assets/963e4e34-3912-43b0-8303-81aac5f5663c" alt="Game Screenshot 2" width="300"> 
+<img src="https://github.com/user-attachments/assets/16a0144f-de00-4893-8015-c7c55999e383" alt="Game Screenshot 3" width="280">
+<img src="https://github.com/user-attachments/assets/7c7edbea-ed79-4d3d-b546-427808bd2e37" alt="Game Screenshot 1" width="280"> 
+<img src="https://github.com/user-attachments/assets/963e4e34-3912-43b0-8303-81aac5f5663c" alt="Game Screenshot 2" width="280"> 
 
 
 ---
